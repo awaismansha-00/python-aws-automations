@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project Specific Automation Artifacts & Secrets
+collected_logs/
+*.backup
+*.part
+*.pem
+*.key
+.vscode/
+.idea/
+

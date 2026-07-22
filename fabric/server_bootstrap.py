@@ -5,12 +5,12 @@ SERVERS = [
     {
         "host": "192.168.1.10",
         "user": "ubuntu",
-        "key_filename": "/home/awais/.ssh/server-key.pem",
+        "key_filename": "/path/to/server-key.pem",
     },
     {
         "host": "192.168.1.11",
         "user": "ubuntu",
-        "key_filename": "/home/awais/.ssh/server-key.pem",
+        "key_filename": "/path/to/server-key.pem",
     },
 ]
 

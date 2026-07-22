@@ -1,7 +1,11 @@
-boto3==1.43.52
-botocore==1.43.52
-jmespath==1.1.0
-python-dateutil==2.9.0.post0
-s3transfer==0.19.1
-six==1.17.0
-urllib3==2.7.0
+# AWS SDK for Python
+boto3>=1.34.0
+
+# Remote SSH Server Administration & Task Execution
+fabric>=3.2.0
+
+# YAML Parsing, Validation & Manifest Auditing
+pyyaml>=6.0.1
+
+# HTTP REST API Client & Deployment Verification
+requests>=2.31.0
